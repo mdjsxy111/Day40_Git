@@ -6,4 +6,5 @@ package com.qf.sxy.day40_git;
 public class AA {
     //哈哈哈哈哈哈
     //AAAA
+    //BBBBBB
 }
